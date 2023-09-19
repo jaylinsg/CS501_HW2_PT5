@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">cs501_hw2_pt5</string>
+    <string name="operand_1">Operand 1</string>
+    <string name="operand_2">Operand 2</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+
+    <string name="invalid_operand">Invalid Operand</string>
+    <string name="invalid_operation">Invalid Operation</string>
+    <string name="result_format">Result: %f</string>
+
+    <string name="addition">Addition</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="division">Division</string>
+    <string name="modulus">Modulus</string>
+    <string name="divide_by_zero">Divide by Zero</string>
+
+    <string-array name="operations">
+        <item>Addition</item>
+        <item>Subtraction</item>
+        <item>Multiplication</item>
+        <item>Division</item>
+        <item>Modulus</item>
+    </string-array>
+</resources>
